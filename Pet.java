@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+//Name: Benjamin Apter
+//Date: 10/12/26
+//Description: This program will tell you which animal you will be getting as a part of the new law given the input of your
+//name(exluding names with numbers or other symbols), your favorite color (r,g,b), and your favorite season(winter,fall,spring,summer)
 class Main {
   public static void main(String[] args) {
     //instructions for users
