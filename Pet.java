@@ -56,7 +56,7 @@ class Main {
         System.out.println("You get a porcupine!!!");} 
       
       else if (favSeason.equals("summer")) {
-        System.out.println("You get a Ponie!!!");} 
+        System.out.println("You get a Pony!!!");} 
       
       else if (!"aeiou".contains(String.valueOf(name.charAt(0)))
           && !favSeason.equals("summer")
